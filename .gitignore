@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Runtime log files
+backend/app/logs/*.log
+
+# Local analysis clones/extracts
+internship_refs/
